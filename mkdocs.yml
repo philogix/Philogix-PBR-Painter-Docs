@@ -54,7 +54,7 @@ theme:
 
 # Plugins
 plugins:
-  - blog
+  - mkdocs-video
   - search:
       separator: '[\s\u200b\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - minify:
@@ -114,3 +114,18 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+
+
+# Page tree
+nav:
+  - Introduction: index.md
+
+  - Getting started:
+    - Installation: Getting Started/installation.md
+
+  - Tuturials:
+    - Videos: Tuturials/index.md
+
+  - Release notes:
+    - Version 4.1: Release notes/4.1.md
+
