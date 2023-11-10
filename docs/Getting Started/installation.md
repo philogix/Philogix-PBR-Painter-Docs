@@ -4,11 +4,11 @@ How to Install [_Philogix PBR Painter_](https://www.blendermarket.com/products/p
 
 To install, you can follow these steps:
 
-1. __Download the Philogix PBR Painter__: Once you find the add-on you want, [download](https://www.blendermarket.com/products/philogix-pbr-painter-pro?ref=710) it to your computer as a .zip file.
+1. __Download the Philogix PBR Painter__: Download addon for Blender from [download](https://www.blendermarket.com/products/philogix-pbr-painter-pro?ref=710) it to your computer as a .zip file.
 
 2. __Open Blender__: Open Blender on your computer.
 
-3. __Go to Preferences__: In Blender, press the Edit key (or File for older versions of Blender) and select Preferences. This will open the Preferences window.
+3. __Go to Preferences__: In Blender, press the Edit key and select Preferences. This will open the Preferences window.
 
 4. __Select the Add-ons Tab__: In the Preferences window, navigate to the Add-ons tab.
 
@@ -18,7 +18,9 @@ To install, you can follow these steps:
 
 7. __Activate the Add-on__: After you've selected the .zip file, the add-on will appear in the Preferences window. You need to find the add-on in the list, click the checkbox next to its name to activate it.
 
-8. __Customize Settings (If Needed)__: Some add-ons have additional settings. Once the add-on is activated, you can click on its name to view and customize its settings (if available).
+8. __Customize Settings (If Needed)__: Once the Philogix PBR Painter is activated, you can click on its name to view and customize its settings (if available).
+
+9. __Location__: The Philogix PBR Painter panel can be found in the View 3D/Philogix view  in the left side Panel.
 
 
 The add-on is now installed and activated in your Blender, and you can start using it.

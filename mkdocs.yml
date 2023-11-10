@@ -1,4 +1,4 @@
-site_name: Philogix PBr Painter
+site_name: Philogix PBR Painter
 site_url: https://philogix.github.io/Philogix-PBR-Painter-Docs/
 theme:
   name: material
@@ -60,11 +60,6 @@ plugins:
   - minify:
       minify_html: true
 
-# Hooks
-hooks:
-  - material/overrides/hooks/shortcodes.py
-  - material/overrides/hooks/translations.py
-
 # Extensions
 markdown_extensions:
   - abbr
@@ -122,6 +117,32 @@ nav:
 
   - Getting started:
     - Installation: Getting Started/installation.md
+
+  - Material Set:
+    - Material Set: Material Set/index.md
+
+  - Layer System:
+    - Overview: Layer System/overview.md
+    - Managing Layers: Layer System/managing_layers.md
+    - Material Layer: Layer System/material_layer.md
+    - Channel Layer: Layer System/channel_layer.md
+    - PBR Channel: Layer System/pbr_channel.md
+    - Layer Mask: Layer System/layer_mask.md
+
+  - Layer Projection: Layer Projection/index.md
+
+  - Painting: Painting/index.md
+
+  - Baking:
+    - Baking: Baking/index.md
+
+  - Export Textures:
+    - Overview: Export Textures/overview.md
+    - General Settings: Export Textures/general_settings.md
+    - Export Preset: Export Textures/export_preset.md
+
+  - Asset Library:
+    - Library: Library/index.md
 
   - Tuturials:
     - Videos: Tuturials/index.md
