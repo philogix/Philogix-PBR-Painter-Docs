@@ -148,5 +148,6 @@ nav:
     - Videos: Tuturials/index.md
 
   - Release notes:
+    - Version 4.2: Release notes/4.2.md
     - Version 4.1: Release notes/4.1.md
 
