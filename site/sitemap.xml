@@ -2,107 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Baking/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Export%20Textures/export_preset/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Export%20Textures/general_settings/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Export%20Textures/overview/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Getting%20Started/installation/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20Projection/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/channel_layer/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/layer_mask/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/managing_layers/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/material_layer/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/overview/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Layer%20System/pbr_channel/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Library/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Material%20Set/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Painting/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Release%20notes/4.1/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Release%20notes/4.2.1/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Release%20notes/4.2.2/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Release%20notes/4.2.3/</loc>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Release%20notes/4.2/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://philogix.github.io/Philogix-PBR-Painter-Docs/Tuturials/</loc>
-         <lastmod>2024-04-13</lastmod>
+         <lastmod>2024-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
